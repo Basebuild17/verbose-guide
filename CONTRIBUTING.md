@@ -15,11 +15,11 @@
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/fineanmol/Hacktoberfest2026.git
+git clone https://github.com/Basebuild17/verbose-guide.git
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2026
+cd verbose-guide
 ```
 
 - Create a new Branch
@@ -51,7 +51,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/fineanmol/Hacktoberfest2026
+git remote add upstream https://github.com/Basebuild17/verbose-guide
 ```
 
 You can verify that the new remote has been added by typing
